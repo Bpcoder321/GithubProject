@@ -10,4 +10,5 @@ class Example{
    System.out.println("hye..goodnight");
 }
 System.out.println("hye...");
+System.out.println("hye...");
 }
