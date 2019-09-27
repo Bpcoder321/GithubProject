@@ -9,4 +9,5 @@ class Example{
   public void greetUser(){
    System.out.println("hye..goodnight");
 }
+System.out.println("hye...");
 }
